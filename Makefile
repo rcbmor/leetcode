@@ -1,5 +1,5 @@
 
-CC=g++
+CC=g++ -ggdb3
 
 problems := $(patsubst %.c++,%,$(wildcard *.c++))
 
