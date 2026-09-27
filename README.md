@@ -1,4 +1,4 @@
 leetcode
 ========
 
-http://oj.leetcode.com/problems/
+https://leetcode.com/
